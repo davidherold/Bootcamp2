@@ -9,10 +9,9 @@
   "author": "Medhir Bhargava & Christina Gardner-McCune",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^4.2.9"
+    "mongoose": "^5.7.1"
   },
   "devDependencies": {
-    "mongoose": "^5.6.12",
     "should": "^13.2.3"
   }
 }
